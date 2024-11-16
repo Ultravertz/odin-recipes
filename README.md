@@ -4,8 +4,8 @@ In this project, I will be going to build a basic recipe website using all the H
 
 # Skills
 
-1.
+1. Boilerplate HTML.
 
-2.
+2. Add, Commit and Push.
 
-3.
+3. HTML = Anchor <a>, Paragraph <a>, Heading <h1> & <h3>, Lists <ul>, <ol> & ,<li> and Image <img>.
